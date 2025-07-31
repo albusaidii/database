@@ -34,18 +34,18 @@ Database Course Documentation
  
  
  
-Table of Contents
-📂        Flat File vs Relational Databases
-Comparison Between Flat File and Databases:
-🧠 DBMS Advantages – Mind Map
-👥        Roles in a Database System
-🧩     Types of Databases
-Relational vs Non-Relational:
-Centralized vs Distributed vs Cloud Databases
-☁️        Cloud Storage and Databases
-📦 What is Cloud Storage?
-🌐  Cloud-Based DB Advantages
-⚠️     Challenges
+Table of Contents <br>
+📂        Flat File vs Relational Databases <br>
+Comparison Between Flat File and Databases: <br>
+🧠 DBMS Advantages – Mind Map <br>
+👥        Roles in a Database System <br>
+🧩     Types of Databases <br>
+Relational vs Non-Relational: <br>
+Centralized vs Distributed vs Cloud Databases <br>
+☁️        Cloud Storage and Databases <br>
+📦 What is Cloud Storage? <br>
+🌐  Cloud-Based DB Advantages <br>
+⚠️     Challenges <br>
  
  
  
@@ -71,15 +71,15 @@ Centralized vs Distributed vs Cloud Databases
  
  
  
-📂     Flat File vs Relational Databases
+📂     Flat File vs Relational Databases <br> <br>
  
-Flat file databases store data in a single table or plain text file with no structured relationships, leading to redundancy and limited scalability. In contrast, relational databases organize data into multiple related tables using keys, allowing for efficient data retrieval, reduced redundancy, and better integrity. While flat files are simple and easy to use for small datasets, relational databases are more powerful and suited for complex, structured data management.
+Flat file databases store data in a single table or plain text file with no structured relationships, leading to redundancy and limited scalability. In contrast, relational databases organize data into multiple related tables using keys, allowing for efficient data retrieval, reduced redundancy, and better integrity. While flat files are simple and easy to use for small datasets, relational databases are more powerful and suited for complex, structured data management. <br> <br> <br>
  
  
  
-Comparison Between Flat File and Databases:
+Comparison Between Flat File and Databases: <br>
  
-Feature
+Feature 
 Flat File System
 Relational Database
 Structure

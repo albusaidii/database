@@ -110,18 +110,18 @@ More complex setup, needs RDBMS software
  
  
  
- 
+  <br>
 🧠 DBMS Advantages – Mind Map
  
- 
+  <br>
 A Database Management System (DBMS) offers a structured and efficient way to store, manage, and access data. It provides several key advantages such as enhanced security, data integrity, reduced redundancy, concurrent access, reliable backups, and easy data sharing. These features make DBMS essential for maintaining accurate, consistent, and accessible data in modern applications and organizations.
  
- 
+  <br>
 Below is a concise mind map illustrating the key advantages of a Database Management System (DBMS):
  
 ￼
  
- 
+  <br>
 In summary, a Database Management System (DBMS) plays a vital role in modern data management by offering structured, secure, and efficient access to information. Its key advantages—such as enhanced security, data integrity, reduced redundancy, support for concurrent access, reliable backup solutions, and streamlined data sharing—make it indispensable for organizations of all sizes. By centralizing data control and ensuring consistency, a DBMS supports better decision-making, operational efficiency, and long-term scalability in today’s data-driven environments.
  
  
@@ -130,12 +130,12 @@ In summary, a Database Management System (DBMS) plays a vital role in modern dat
  
  
  
- 
+  <br>
 👥     Roles in a Database System
  
 In a database system, various specialized roles work together to ensure the successful design, development, and maintenance of the database infrastructure. Each role contributes specific expertise, from gathering requirements to building applications and generating insights. The following table outlines the key roles involved in a database project and summarizes their primary responsibilities.
  
- 
+  <br>
 The following are key roles within a database system team, along with their respective responsibilities:
  
         Role
@@ -167,7 +167,7 @@ Designs dashboards and reports for business insights using data queries.
  
  
  
- 
+  <br>
 🧩     Types of Databases
  
 Databases come in various types, each designed to meet specific data storage and access needs. From traditional relational databases to modern non-relational, centralized, distributed, and cloud-based systems, each type offers unique features, structures, and use cases depending on the application's requirements.
@@ -214,30 +214,30 @@ Scalable SaaS apps using Amazon RDS, Azure SQL
  
  
  
- 
+  <br>
 ☁️     Cloud Storage and Databases
  
- 
+  <br>
             📦 What is Cloud Storage?
- 
+  <br>
 Cloud storage is a model where data is stored on remote servers accessed via the internet. It supports databases by offering elastic scalability, remote access, and integrated backup.
  
  
+  <br>
+🌐  Cloud-Based DB Advantages <br> <br>
  
-🌐  Cloud-Based DB Advantages
+            ·  Auto-scaling and high availability <br>
+·  Reduced hardware cost <br>
+·  Easy maintenance and monitoring tools <br>
+·  Accessible from anywhere <br>
  
-            ·  Auto-scaling and high availability
-·  Reduced hardware cost
-·  Easy maintenance and monitoring tools
-·  Accessible from anywhere
+ <br>
+⚠️     Challenges <br> <br>
  
-
-⚠️     Challenges
- 
-            ·  Security & data privacy concerns
-·  Network latency
-·  Dependency on cloud provider
-·  Ongoing operational cost
+            ·  Security & data privacy concerns <br>
+·  Network latency <br>
+·  Dependency on cloud provider <br>
+·  Ongoing operational cost <br>
  
  
  
